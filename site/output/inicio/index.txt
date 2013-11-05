@@ -2,8 +2,8 @@
 .. description:
 .. tags:
 .. date: 2013/11/05 10:10:10
-.. title: Democracia con códigos
-.. slug: index
+.. title:
+.. slug: inicio
 
 .. Sponsors ?
 
@@ -27,10 +27,13 @@
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
-1er Hackatón sobre Datos Públicos de Córdoba
----------------------------------------------
+Democracia con códigos
+-----------------------
 
-Sumate al 1er Hackatón sobre Datos Públicos de Córdoba, para analizar los resultados electorales. Programadores, investigadores y comunicadores trabajando voluntariamente. Más transparencia, mejor democracia.
+**1er Hackatón sobre Datos Públicos de Córdoba**
+
+
+Sumate al 1er Hackatón Cordobés sobre Datos Públicos para analizar los resultados electorales. Programadores, cientificos y comunicadores trabajando voluntariamente. Más transparencia, mejor democracia.
 
 ¿Querés saber más? Leé la `gacetilla de prensa`_ o el las `preguntas frecuentes`_.
 
@@ -53,4 +56,4 @@ Sábado 9 de noviembre de 2013, de 9 a 19 horas.
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/forms/d/1DXujqIcSDjB-PYKgPoPAifnXsJjQFxH6Ly4Po_PLbtE/viewform?embedded=true" width="460" height="350" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+    <iframe src="https://docs.google.com/forms/d/1DXujqIcSDjB-PYKgPoPAifnXsJjQFxH6Ly4Po_PLbtE/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>

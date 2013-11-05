@@ -8,16 +8,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Your Name"
-BLOG_TITLE = "My Little Python Meeting"
+BLOG_AUTHOR = "HackCba"
+BLOG_TITLE = u"Democracia con Códigos"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://pyday-foo.python.org"
+SITE_URL = "http://democraciaconcodigos.github.io"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "News and information about My Little Python Day."
+BLOG_EMAIL = "democraciaconcodigos@gmail.com"
+BLOG_DESCRIPTION = "1er Hackatón sobre Datos Públicos de Córdoba"
 
 # Nikola is multilingual!
 #
@@ -49,30 +49,24 @@ TRANSLATIONS = {
 #    "es": "./es",
 }
 
-# Links for the sidebar / navigation bar.
-# You should provide a key-value pair for each used language.
-SIDEBAR_LINKS = {
-    "en": (
-        ('/', 'Start'),
-        ('/speakers/', 'Speakers'),
-        ('/news/', 'News'),
-        ('/schedule/', 'Schedule'),
-        ('/location/', 'Location'),
-        ('/sponsors/', 'Sponsors'),
-        ('/signup/', 'Signup'),
-    ),
-    "es": (
-        ('/es/', 'Inicio'),
-        ('/es/speakers/', 'Oradores'),
-        ('/es/news/', 'Noticias'),
-        ('/es/schedule/', 'Agenda'),
-        ('/es/location/', 'Lugar'),
-        ('/es/sponsors/', 'Sponsors'),
-        ('/es/signup/', 'Inscripción'),
-    ),
+
+NAVIGATION_LINKS = {
+    DEFAULT_LANG: (
+        ('/', 'Inicio'),
+        ('/faq', 'FAQ'),
+        ('/gacetilla', 'Gacetilla'),
+        ('/agenda', 'Agenda'),
+
+        # ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+        # ('/categories/index.html', 'Tags', 'icon-tags'),
+        ('/rss.xml', 'RSS'),
+        # ('http://getnikola.com', 'About me', 'icon-user'),
+        # ('https://twitter.com/CbaHack', 'Twitter', 'icon-twitter'),
+        # ('https://github.com/democraciaconcodigos', 'Github', 'icon-github'),
+    )
 }
 
-
+SIDEBAR_LINKS = NAVIGATION_LINKS
 ##############################################
 # Below this point, everything is optional
 ##############################################
@@ -249,7 +243,7 @@ INDEX_PATH = "news"
 # translated
 
 # Name of the theme to use.
-# THEME = 'site'
+# THEME = 'zen-jinja'
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
@@ -303,7 +297,7 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # http://disqus.com, and set DISQUS_FORUM to the short name you selected.
 # If you want to disable comments, set it to False.
 # Default is "nikolademo", used by the demo sites
-# DISQUS_FORUM = "nikolademo"
+DISQUS_FORUM = "democraciaconcodigos"
 
 # Create index.html for story folders?
 # STORY_INDEX = False
