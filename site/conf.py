@@ -184,7 +184,12 @@ INDEX_PATH = "news"
 # "rsync -rav output/* joe@my.site:/srv/www/site"
 # And then do a backup, or ping pingomatic.
 # To do manual deployment, set it to []
-# DEPLOY_COMMANDS = []
+DEPLOY_COMMANDS = ["git checkout master",
+                   "git read-tree writing:site/output",
+                   "git commit -m 'deploy'",
+                   "git push",
+                   "git reset --hard",
+                   "git checkout writing"]
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
@@ -491,6 +496,8 @@ PRETTY_URLS = True
 #     # 'creator': '@username',  # Username for the content creator / author.
 #     # 'creator:id': 654321,  # Same as creator, but the Twitter user's ID.
 # }
+
+
 
 
 # If you want to use formatted post time in W3C-DTF Format
