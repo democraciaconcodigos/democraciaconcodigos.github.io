@@ -10,6 +10,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://democraciaconcodigos.github.io/2013/</loc>
+  <lastmod>2013-11-05</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://democraciaconcodigos.github.io/archive.html</loc>
   <lastmod>2013-11-05</lastmod>
   <priority>0.5000</priority>
@@ -41,6 +46,11 @@
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/news/</loc>
+  <lastmod>2013-11-05</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://democraciaconcodigos.github.io/news/test/</loc>
   <lastmod>2013-11-05</lastmod>
   <priority>0.5000</priority>
  </url>
