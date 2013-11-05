@@ -5,6 +5,10 @@
 .. title: Democracia con códigos
 .. slug: index
 
+
+.. image:: images/flyer.jpg
+   :align: center
+
 .. Sponsors ?
 
    .. figure:: http://www.weylandyutani.org/i/launchwy.jpg
@@ -32,7 +36,7 @@
 
 Sumate al 1er Hackatón sobre Datos Públicos de Córdoba, para analizar los resultados electorales. Programadores, investigadores y comunicadores trabajando voluntariamente. Más transparencia, mejor democracia.
 
-¿Querés saber más? Leé la `gacetilla de prensa`_ o el las `preguntas frecuentes`_.
+¿Querés saber más? Leé la `gacetilla de prensa`_ o las `preguntas frecuentes`_.
 
 Lugar
 +++++
