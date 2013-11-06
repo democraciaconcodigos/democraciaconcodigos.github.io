@@ -441,7 +441,9 @@ PRETTY_URLS = True
 # </script>
 # """
 
-# EXTRA_HEAD_DATA = """
+EXTRA_HEAD_DATA = """
+ <link href="/css/democracy_style.css" rel="stylesheet" type="text/css">
+"""
 # <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
 # <div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
 # """
