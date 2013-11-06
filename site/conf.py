@@ -57,12 +57,13 @@ NAVIGATION_LINKS = {
         ('/inscripcion', u'Inscripción'),
         ('/gacetilla', 'Gacetilla' ),
         ('/como-llegar', 'Cómo llegar'),
+        ('/ideas', 'Ideas'),
 
         # ('/agenda', 'Agenda'),
 
         # ('/archive.html', 'Archives', 'icon-folder-open-alt'),
         # ('/categories/index.html', 'Tags', 'icon-tags'),
-        ('/rss.xml', 'RSS'),
+        # ('/rss.xml', 'RSS'),
         # ('http://getnikola.com', 'About me', 'icon-user'),
         # ('https://twitter.com/CbaHack', 'Twitter', 'icon-twitter'),
         # ('https://github.com/democraciaconcodigos', 'Github', 'icon-github'),
