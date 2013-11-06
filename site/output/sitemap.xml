@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://democraciaconcodigos.github.io/</loc>
-  <lastmod>2013-11-05</lastmod>
+  <lastmod>2013-11-06</lastmod>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/2013/</loc>
@@ -14,11 +14,15 @@
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/archive.html</loc>
-  <lastmod>2013-11-05</lastmod>
+  <lastmod>2013-11-06</lastmod>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/categories/</loc>
   <lastmod>2013-11-05</lastmod>
+ </url>
+ <url>
+  <loc>http://democraciaconcodigos.github.io/como-llegar/</loc>
+  <lastmod>2013-11-06</lastmod>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/faq/</loc>

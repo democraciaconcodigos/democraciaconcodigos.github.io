@@ -56,8 +56,9 @@ NAVIGATION_LINKS = {
         ('/faq', 'FAQ', ),
         ('/inscripcion', u'Inscripción'),
         ('/gacetilla', 'Gacetilla' ),
+        ('/como-llegar', 'Cómo llegar'),
 
-        ('/agenda', 'Agenda'),
+        # ('/agenda', 'Agenda'),
 
         # ('/archive.html', 'Archives', 'icon-folder-open-alt'),
         # ('/categories/index.html', 'Tags', 'icon-tags'),
