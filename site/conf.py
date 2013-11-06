@@ -52,9 +52,11 @@ TRANSLATIONS = {
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/', 'Inicio'),
-        ('/faq', 'FAQ'),
-        ('/gacetilla', 'Gacetilla'),
+        ('/', 'Inicio',),
+        ('/faq', 'FAQ', ),
+        ('/inscripcion', u'Inscripción'),
+        ('/gacetilla', 'Gacetilla' ),
+
         ('/agenda', 'Agenda'),
 
         # ('/archive.html', 'Archives', 'icon-folder-open-alt'),

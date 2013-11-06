@@ -7,76 +7,45 @@
  <url>
   <loc>http://democraciaconcodigos.github.io/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/2013/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/archive.html</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/categories/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/faq/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/gacetilla/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://democraciaconcodigos.github.io/inicio/</loc>
+  <loc>http://democraciaconcodigos.github.io/incripcion/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://democraciaconcodigos.github.io/location/</loc>
+  <loc>http://democraciaconcodigos.github.io/inscripcion/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/news/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://democraciaconcodigos.github.io/news/test/</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://democraciaconcodigos.github.io/schedule/</loc>
+  <loc>http://democraciaconcodigos.github.io/rss.xml</loc>
   <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://democraciaconcodigos.github.io/signup/</loc>
-  <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://democraciaconcodigos.github.io/speakers/</loc>
-  <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://democraciaconcodigos.github.io/sponsors/</loc>
-  <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://democraciaconcodigos.github.io/start/</loc>
-  <lastmod>2013-11-05</lastmod>
-  <priority>0.5000</priority>
  </url>
 </urlset>
