@@ -2,8 +2,8 @@
 .. description:
 .. tags:
 .. date: 2013/11/05 10:59:15
-.. title: Gacetilla de prensa
-.. slug: gacetilla
+.. title: Proyectos
+.. slug: proyectos
 
 .. raw:: html
 
