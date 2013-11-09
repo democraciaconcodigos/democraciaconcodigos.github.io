@@ -58,6 +58,7 @@ NAVIGATION_LINKS = {
         ('/gacetilla', 'Gacetilla' ),
         ('/como-llegar', 'Cómo llegar'),
         ('/ideas', 'Ideas'),
+        ('/proyectos', 'Proyectos'),
 
         # ('/agenda', 'Agenda'),
 
